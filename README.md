@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=260&color=0:E9E2FF,50:C9A3FF,100:FF9ECF&text=Hi,%20I'm%20Emyilie.&fontSize=70&fontColor=000000&stroke=FFFFFF&strokeWidth=1&desc=Computer%20Science%20Student%20·%20AI%20Researcher&descSize=22&descAlignY=66)
+![header]([https://capsule-render.vercel.app/api?type=venom&height=260&color=0:E9E2FF,50:C9A3FF,100:FF9ECF&text=Hi,%20I'm%20Emyilie.&fontSize=70&fontColor=000000&stroke=FFFFFF&strokeWidth=1&desc=Computer%20Science%20Student%20·%20AI%20Researcher&descSize=22&descAlignY=66](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Yunju's%20github))
 
 
 ###### 🔗 LINKS 🔗
